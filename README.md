@@ -1,4 +1,4 @@
-# Otimizacao-da-Cadeia-de-Suprimentos-e-distribuicao-2
+# Otimizacao-da-Cadeia-de-Suprimentos-e-distribuicao
 
 **Alocação das Demandas:**
 
