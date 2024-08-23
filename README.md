@@ -1,5 +1,7 @@
 # Otimizacao-da-Cadeia-de-Suprimentos-e-distribuicao
 
+### Exercício 3 em Markdown
+
 **Alocação das Demandas:**
 
 **Passo 1:** Determine qual CD irá abastecer cada loja, respeitando as restrições de capacidade dos CDs e minimizando os custos de transporte.
