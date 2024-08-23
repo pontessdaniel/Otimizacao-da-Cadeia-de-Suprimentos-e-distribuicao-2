@@ -33,10 +33,10 @@
 
 **Passo 2:** Inclua uma análise de custo-benefício para a expansão sugerida, como abaixo:
 
-**## Análise de Custo-Benefício para Expansão** - **\*\*Proposta de Expansão:\*\*** Aumentar a capacidade do CD1 em 200 unidades. - **\*\*Custo Estimado de Expansão:\*\*** R$ 50.000,00 - **\*\*Benefícios:\*\*** Atende ao aumento de demanda com menor custo adicional de transporte.
+**Análise de Custo-Benefício para Expansão** - **Proposta de Expansão:** Aumentar a capacidade do CD1 em 200 unidades. - **Custo Estimado de Expansão:** R$ 50.000,00 - **Benefícios:** Atende ao aumento de demanda com menor custo adicional de transporte.
 
 **Documentação:**
 
 **Passo 1:** Escreva um relatório em Markdown que documente todas as etapas acima.
 
-**\# Relatório de Otimização da Cadeia de Suprimentos** **\## Alocação das Demandas** ... **\## Cálculo dos Custos Totais** ... **\## Simulação de Pico de Demanda** ... **\## Planejamento de Expansão** ... **\## Conclusão** ...
+**Relatório de Otimização da Cadeia de Suprimentos** **Alocação das Demandas** ... **Cálculo dos Custos Totais** ... **Simulação de Pico de Demanda** ... **Planejamento de Expansão** ... **Conclusão** ...
